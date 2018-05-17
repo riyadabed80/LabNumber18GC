@@ -1,0 +1,7 @@
+C:\Users\rayab\source\repos\LabNumber18GC\LabNumber18GC\bin\Debug\LabNumber18GC.exe.config
+C:\Users\rayab\source\repos\LabNumber18GC\LabNumber18GC\bin\Debug\LabNumber18GC.exe
+C:\Users\rayab\source\repos\LabNumber18GC\LabNumber18GC\bin\Debug\LabNumber18GC.pdb
+C:\Users\rayab\source\repos\LabNumber18GC\LabNumber18GC\obj\Debug\LabNumber18GC.csprojResolveAssemblyReference.cache
+C:\Users\rayab\source\repos\LabNumber18GC\LabNumber18GC\obj\Debug\LabNumber18GC.csproj.CoreCompileInputs.cache
+C:\Users\rayab\source\repos\LabNumber18GC\LabNumber18GC\obj\Debug\LabNumber18GC.exe
+C:\Users\rayab\source\repos\LabNumber18GC\LabNumber18GC\obj\Debug\LabNumber18GC.pdb
